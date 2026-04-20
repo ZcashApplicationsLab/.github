@@ -18,7 +18,7 @@
   <a href="https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml">Propose a sprint</a>
 </p>
 
-> **Status: early community experiment.** Unfunded, independent. **Not affiliated with or endorsed by** the Zcash Foundation, Zcash Community Grants, or Electric Coin Co. Published here to gather feedback.
+> **Status: early community experiment.** Unfunded, independent. **Not affiliated with or endorsed by** the Zcash Foundation (ZF), Zcash Community Grants (ZCG), Shielded Labs, or ZOLD. Published here to gather feedback.
 
 ---
 
@@ -57,6 +57,7 @@ Start at the [main repo](https://github.com/ZcashApplicationsLab/lab).
 
 Links for orientation only. **No affiliation or endorsement is implied.**
 
+- [Zcash Foundation (ZF)](https://zfnd.org/)
 - [Zcash Community Grants (ZCG)](https://zcashcommunitygrants.org/)
-- [Zcash Foundation](https://zfnd.org/)
-- [Electric Coin Co.](https://electriccoin.co/)
+- Shielded Labs
+- ZOLD
