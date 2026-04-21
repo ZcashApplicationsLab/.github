@@ -13,22 +13,20 @@
   ·
   <a href="https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml">Drop an idea</a>
   ·
-  <a href="https://github.com/ZcashApplicationsLab/lab/blob/main/RUBRIC.md">Rubric</a>
-  ·
   <a href="https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml">Propose a sprint</a>
 </p>
 
-> **Status: early community experiment.** Unfunded, independent. **Not affiliated with or endorsed by** the Zcash Foundation (ZF), Zcash Community Grants (ZCG), Shielded Labs, or ZOLD. Published here to gather feedback.
+> **Early community experiment.** Volunteer, unfunded, independent. Not affiliated with ZF, ZCG, Shielded Labs, or ZOLD.
 
 ---
 
-## What we do
+## What this is
 
-Zcash has strong privacy primitives and a thin layer of working applications beyond private payments. ZAL is an attempt at a lightweight incubation format: ideas in, open-source code out. Time-boxed 2 to 4 week sprints across seven verticals, each shipping code, spec, writeup, and demo under Apache 2.0.
+2 to 4 week open-source sprints that ship prototypes, writeups, and demos under Apache 2.0. Ideas in, code out.
 
-## Seven verticals
+## Verticals
 
-1. **Verifiable Credentials & Identity.** NFC passport proofs, diploma attestations, KYC receipts.
+1. **Verifiable Credentials & Identity.** NFC passports, diplomas, KYC receipts.
 2. **Private Credit & Underwriting.** Shielded credit history, scoring, lending.
 3. **Regulated Privacy & Selective Disclosure.** Auditor keys, compliance-ready privacy.
 4. **Institutional Settlement & Proof of Reserve.** Treasury ops, PoR, OTC rails.
@@ -38,20 +36,13 @@ Zcash has strong privacy primitives and a thin layer of working applications bey
 
 ## Get involved
 
-Help is welcome from anyone. ZAL is a volunteer effort, so there is no gatekeeping. You can contribute by proposing a sprint, running a sprint, reviewing code or writeups, mentoring active sprints, improving the docs, flagging prior art, or just giving honest feedback in a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions). Show up for one PR or stay for ten sprints, either is fine.
-
-Rough role buckets:
-
-- **Builders.** [Propose a sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml), or just [drop a rough idea](https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml) if you have a hunch but no scope yet.
-- **Reviewers.** Cryptography, compliance, credit, identity, governance.
-- **Mentors.** Time-boxed slots on active sprints.
-- **Feedback.** Whether you think this format is worth continuing, open a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions).
+No gatekeeping. [Drop an idea](https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml), [propose a sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml), review code, mentor, or just leave feedback in a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions).
 
 Start at the [main repo](https://github.com/ZcashApplicationsLab/lab).
 
 ## Ecosystem context
 
-Links for orientation only. **No affiliation or endorsement is implied.**
+Links for orientation only. No affiliation or endorsement implied.
 
 - [Zcash Foundation (ZF)](https://zfnd.org/)
 - [Zcash Community Grants (ZCG)](https://zcashcommunitygrants.org/)
