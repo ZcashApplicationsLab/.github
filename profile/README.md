@@ -48,7 +48,7 @@ Help is welcome from anyone. ZAL is a volunteer effort, so there is no gatekeepi
 
 Rough role buckets:
 
-- **Builders.** Pick a backlog item or [propose your own sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml).
+- **Builders.** Pick a backlog item, [propose a sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml), or just [drop a rough idea](https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml) if you have a hunch but no scope yet.
 - **Reviewers.** Cryptography, compliance, credit, identity, governance.
 - **Mentors.** Time-boxed slots on active sprints.
 - **Feedback.** Whether you think this format is worth continuing, open a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions).
