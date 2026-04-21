@@ -36,12 +36,6 @@ Zcash has strong privacy primitives and a thin layer of working applications bey
 6. **Private Voting & DAO Governance.** Shielded voting, delegation, quadratic funding.
 7. **ZK Audits & Privacy-Preserving Analytics.** Compliance reports, confidential analytics.
 
-## Reference project
-
-- **ZAL-00: ZK ID + ZK Credit.** NFC passport proofs and private credit history on Zcash. Being developed independently by the initial maintainer group.
-  - Site: [zkglobalcredit.tech](https://zkglobalcredit.tech/)
-  - Repo: [Michae2xl/zk-credit-global-zcash](https://github.com/Michae2xl/zk-credit-global-zcash)
-
 ## Get involved
 
 Help is welcome from anyone. ZAL is a volunteer effort, so there is no gatekeeping. You can contribute by proposing a sprint, running a sprint, reviewing code or writeups, mentoring active sprints, improving the docs, flagging prior art, or just giving honest feedback in a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions). Show up for one PR or stay for ten sprints, either is fine.
