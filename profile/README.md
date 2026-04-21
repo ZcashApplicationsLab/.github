@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ZcashApplicationsLab/lab"><strong>Main repo →</strong></a>
   ·
-  <a href="https://github.com/ZcashApplicationsLab/lab/blob/main/BACKLOG.md">Backlog</a>
+  <a href="https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml">Drop an idea</a>
   ·
   <a href="https://github.com/ZcashApplicationsLab/lab/blob/main/RUBRIC.md">Rubric</a>
   ·
@@ -48,7 +48,7 @@ Help is welcome from anyone. ZAL is a volunteer effort, so there is no gatekeepi
 
 Rough role buckets:
 
-- **Builders.** Pick a backlog item, [propose a sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml), or just [drop a rough idea](https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml) if you have a hunch but no scope yet.
+- **Builders.** [Propose a sprint](https://github.com/ZcashApplicationsLab/lab/issues/new?template=sprint-proposal.yml), or just [drop a rough idea](https://github.com/ZcashApplicationsLab/lab/issues/new?template=idea.yml) if you have a hunch but no scope yet.
 - **Reviewers.** Cryptography, compliance, credit, identity, governance.
 - **Mentors.** Time-boxed slots on active sprints.
 - **Feedback.** Whether you think this format is worth continuing, open a [Discussion](https://github.com/ZcashApplicationsLab/lab/discussions).
